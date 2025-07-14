@@ -6,9 +6,8 @@ This project was developed as a demonstration of skills in C++ systems programmi
 
 ### Demo
 
-*(It is highly recommended to create a short screen recording or GIF of the final application and place it here. For now, you can use a screenshot.)*
 
-![Demo Screenshot](demo_screenshot.png)
+![Demo Screenshot](USVDemog.gif)
 
 ---
 
@@ -47,7 +46,7 @@ This project is a practical demonstration of several key software engineering co
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/realtime-sensor-aggregator.git](https://github.com/YourUsername/realtime-sensor-aggregator.git)
+    git clone https://github.com/rtora/realtime-sensor-aggregator.git
     cd realtime-sensor-aggregator
     ```
 
