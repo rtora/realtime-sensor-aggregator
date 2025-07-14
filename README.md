@@ -7,7 +7,7 @@ This project was developed as a demonstration of skills in C++ systems programmi
 ### Demo
 
 
-![Demo Screenshot](USVDemog.gif)
+![Demo Screenshot](USVDemo.gif)
 
 ---
 
