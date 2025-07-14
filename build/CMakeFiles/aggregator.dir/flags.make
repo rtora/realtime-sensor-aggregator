@@ -6,7 +6,7 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGSarm64 = -g -arch arm64
+CXX_FLAGSarm64 = -g -std=gnu++17 -arch arm64
 
-CXX_FLAGS = -g -arch arm64
+CXX_FLAGS = -g -std=gnu++17 -arch arm64
 

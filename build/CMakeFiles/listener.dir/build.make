@@ -86,17 +86,114 @@ CMakeFiles/listener.dir/listener.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/listener.dir/listener.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/romtin/Documents/Interview/realtime-sensor-aggregator/listener.cpp -o CMakeFiles/listener.dir/listener.cpp.s
 
+CMakeFiles/listener.dir/imgui.cpp.o: CMakeFiles/listener.dir/flags.make
+CMakeFiles/listener.dir/imgui.cpp.o: /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui.cpp
+CMakeFiles/listener.dir/imgui.cpp.o: CMakeFiles/listener.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/listener.dir/imgui.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/listener.dir/imgui.cpp.o -MF CMakeFiles/listener.dir/imgui.cpp.o.d -o CMakeFiles/listener.dir/imgui.cpp.o -c /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui.cpp
+
+CMakeFiles/listener.dir/imgui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/listener.dir/imgui.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui.cpp > CMakeFiles/listener.dir/imgui.cpp.i
+
+CMakeFiles/listener.dir/imgui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/listener.dir/imgui.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui.cpp -o CMakeFiles/listener.dir/imgui.cpp.s
+
+CMakeFiles/listener.dir/imgui_draw.cpp.o: CMakeFiles/listener.dir/flags.make
+CMakeFiles/listener.dir/imgui_draw.cpp.o: /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_draw.cpp
+CMakeFiles/listener.dir/imgui_draw.cpp.o: CMakeFiles/listener.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/listener.dir/imgui_draw.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/listener.dir/imgui_draw.cpp.o -MF CMakeFiles/listener.dir/imgui_draw.cpp.o.d -o CMakeFiles/listener.dir/imgui_draw.cpp.o -c /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_draw.cpp
+
+CMakeFiles/listener.dir/imgui_draw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/listener.dir/imgui_draw.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_draw.cpp > CMakeFiles/listener.dir/imgui_draw.cpp.i
+
+CMakeFiles/listener.dir/imgui_draw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/listener.dir/imgui_draw.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_draw.cpp -o CMakeFiles/listener.dir/imgui_draw.cpp.s
+
+CMakeFiles/listener.dir/imgui_tables.cpp.o: CMakeFiles/listener.dir/flags.make
+CMakeFiles/listener.dir/imgui_tables.cpp.o: /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_tables.cpp
+CMakeFiles/listener.dir/imgui_tables.cpp.o: CMakeFiles/listener.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/listener.dir/imgui_tables.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/listener.dir/imgui_tables.cpp.o -MF CMakeFiles/listener.dir/imgui_tables.cpp.o.d -o CMakeFiles/listener.dir/imgui_tables.cpp.o -c /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_tables.cpp
+
+CMakeFiles/listener.dir/imgui_tables.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/listener.dir/imgui_tables.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_tables.cpp > CMakeFiles/listener.dir/imgui_tables.cpp.i
+
+CMakeFiles/listener.dir/imgui_tables.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/listener.dir/imgui_tables.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_tables.cpp -o CMakeFiles/listener.dir/imgui_tables.cpp.s
+
+CMakeFiles/listener.dir/imgui_widgets.cpp.o: CMakeFiles/listener.dir/flags.make
+CMakeFiles/listener.dir/imgui_widgets.cpp.o: /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_widgets.cpp
+CMakeFiles/listener.dir/imgui_widgets.cpp.o: CMakeFiles/listener.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/listener.dir/imgui_widgets.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/listener.dir/imgui_widgets.cpp.o -MF CMakeFiles/listener.dir/imgui_widgets.cpp.o.d -o CMakeFiles/listener.dir/imgui_widgets.cpp.o -c /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_widgets.cpp
+
+CMakeFiles/listener.dir/imgui_widgets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/listener.dir/imgui_widgets.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_widgets.cpp > CMakeFiles/listener.dir/imgui_widgets.cpp.i
+
+CMakeFiles/listener.dir/imgui_widgets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/listener.dir/imgui_widgets.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_widgets.cpp -o CMakeFiles/listener.dir/imgui_widgets.cpp.s
+
+CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o: CMakeFiles/listener.dir/flags.make
+CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o: /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_impl_sdl2.cpp
+CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o: CMakeFiles/listener.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o -MF CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o.d -o CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o -c /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_impl_sdl2.cpp
+
+CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_impl_sdl2.cpp > CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.i
+
+CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_impl_sdl2.cpp -o CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.s
+
+CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o: CMakeFiles/listener.dir/flags.make
+CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o: /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_impl_opengl3.cpp
+CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o: CMakeFiles/listener.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o -MF CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o.d -o CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o -c /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_impl_opengl3.cpp
+
+CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_impl_opengl3.cpp > CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.i
+
+CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/romtin/Documents/Interview/realtime-sensor-aggregator/imgui_impl_opengl3.cpp -o CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.s
+
 # Object files for target listener
 listener_OBJECTS = \
-"CMakeFiles/listener.dir/listener.cpp.o"
+"CMakeFiles/listener.dir/listener.cpp.o" \
+"CMakeFiles/listener.dir/imgui.cpp.o" \
+"CMakeFiles/listener.dir/imgui_draw.cpp.o" \
+"CMakeFiles/listener.dir/imgui_tables.cpp.o" \
+"CMakeFiles/listener.dir/imgui_widgets.cpp.o" \
+"CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o" \
+"CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o"
 
 # External object files for target listener
 listener_EXTERNAL_OBJECTS =
 
 listener: CMakeFiles/listener.dir/listener.cpp.o
+listener: CMakeFiles/listener.dir/imgui.cpp.o
+listener: CMakeFiles/listener.dir/imgui_draw.cpp.o
+listener: CMakeFiles/listener.dir/imgui_tables.cpp.o
+listener: CMakeFiles/listener.dir/imgui_widgets.cpp.o
+listener: CMakeFiles/listener.dir/imgui_impl_sdl2.cpp.o
+listener: CMakeFiles/listener.dir/imgui_impl_opengl3.cpp.o
 listener: CMakeFiles/listener.dir/build.make
+listener: /opt/homebrew/Cellar/sdl2/2.32.8/lib/libSDL2.dylib
 listener: CMakeFiles/listener.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable listener"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable listener"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/listener.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

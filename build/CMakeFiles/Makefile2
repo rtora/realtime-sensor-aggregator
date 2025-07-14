@@ -88,12 +88,12 @@ clean: CMakeFiles/aggregator.dir/clean
 CMakeFiles/listener.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/listener.dir/build.make CMakeFiles/listener.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/listener.dir/build.make CMakeFiles/listener.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=3,4 "Built target listener"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=3,4,5,6,7,8,9,10 "Built target listener"
 .PHONY : CMakeFiles/listener.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/listener.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/listener.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles 0
 .PHONY : CMakeFiles/listener.dir/rule
@@ -105,7 +105,7 @@ listener: CMakeFiles/listener.dir/rule
 # codegen rule for target.
 CMakeFiles/listener.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/listener.dir/build.make CMakeFiles/listener.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=3,4 "Finished codegen for target listener"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles --progress-num=3,4,5,6,7,8,9,10 "Finished codegen for target listener"
 .PHONY : CMakeFiles/listener.dir/codegen
 
 # clean rule for target.

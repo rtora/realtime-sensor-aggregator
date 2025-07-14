@@ -598,6 +598,7 @@ CMakeFiles/aggregator.dir/aggregator.cpp.o: /Users/romtin/Documents/Interview/re
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/this_thread.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/thread.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__threading_support \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/make_tuple_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/pair_like.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/sfinae_helpers.h \
@@ -809,6 +810,7 @@ CMakeFiles/aggregator.dir/aggregator.cpp.o: /Users/romtin/Documents/Interview/re
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/limits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/locale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/locale.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/map \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/memory \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/mutex \
@@ -992,6 +994,7 @@ CMakeFiles/aggregator.dir/aggregator.cpp.o: /Users/romtin/Documents/Interview/re
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stdarg_va_copy.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stdarg_va_list.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_header_macro.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_max_align_t.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_null.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_nullptr_t.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_offsetof.h \
@@ -1002,7 +1005,8 @@ CMakeFiles/aggregator.dir/aggregator.cpp.o: /Users/romtin/Documents/Interview/re
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h
+  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h \
+  /Users/romtin/Documents/Interview/realtime-sensor-aggregator/protocol.h
 
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h:
@@ -1018,6 +1022,8 @@ CMakeFiles/aggregator.dir/aggregator.cpp.o: /Users/romtin/Documents/Interview/re
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_nullptr_t.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_null.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_max_align_t.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_header_macro.h:
 
@@ -1216,6 +1222,8 @@ CMakeFiles/aggregator.dir/aggregator.cpp.o: /Users/romtin/Documents/Interview/re
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/mutex:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/math.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/map:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/locale.h:
 
@@ -1520,6 +1528,8 @@ CMakeFiles/aggregator.dir/aggregator.cpp.o: /Users/romtin/Documents/Interview/re
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/pair_like.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/make_tuple_types.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__threading_support:
 
@@ -2924,6 +2934,8 @@ CMakeFiles/aggregator.dir/aggregator.cpp.o: /Users/romtin/Documents/Interview/re
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_cv.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/noexcept_move_assign_container.h:
+
+/Users/romtin/Documents/Interview/realtime-sensor-aggregator/protocol.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arm/_mcontext.h:
 
