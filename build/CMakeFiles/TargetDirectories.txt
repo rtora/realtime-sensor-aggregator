@@ -1,3 +1,4 @@
 /Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles/listener.dir
+/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles/aggregator.dir
 /Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles/edit_cache.dir
 /Users/romtin/Documents/Interview/realtime-sensor-aggregator/build/CMakeFiles/rebuild_cache.dir

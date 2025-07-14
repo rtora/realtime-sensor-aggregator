@@ -129,6 +129,43 @@ listener/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/listener.dir/build.make CMakeFiles/listener.dir/build
 .PHONY : listener/fast
 
+#=============================================================================
+# Target rules for targets named aggregator
+
+# Build rule for target.
+aggregator: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 aggregator
+.PHONY : aggregator
+
+# fast build rule for target.
+aggregator/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/aggregator.dir/build.make CMakeFiles/aggregator.dir/build
+.PHONY : aggregator/fast
+
+aggregator.o: aggregator.cpp.o
+.PHONY : aggregator.o
+
+# target to build an object file
+aggregator.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/aggregator.dir/build.make CMakeFiles/aggregator.dir/aggregator.cpp.o
+.PHONY : aggregator.cpp.o
+
+aggregator.i: aggregator.cpp.i
+.PHONY : aggregator.i
+
+# target to preprocess a source file
+aggregator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/aggregator.dir/build.make CMakeFiles/aggregator.dir/aggregator.cpp.i
+.PHONY : aggregator.cpp.i
+
+aggregator.s: aggregator.cpp.s
+.PHONY : aggregator.s
+
+# target to generate assembly for a file
+aggregator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/aggregator.dir/build.make CMakeFiles/aggregator.dir/aggregator.cpp.s
+.PHONY : aggregator.cpp.s
+
 listener.o: listener.cpp.o
 .PHONY : listener.o
 
@@ -161,7 +198,11 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... aggregator"
 	@echo "... listener"
+	@echo "... aggregator.o"
+	@echo "... aggregator.i"
+	@echo "... aggregator.s"
 	@echo "... listener.o"
 	@echo "... listener.i"
 	@echo "... listener.s"

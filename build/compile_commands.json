@@ -4,5 +4,11 @@
   "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/listener.dir/listener.cpp.o -c /Users/romtin/Documents/Interview/realtime-sensor-aggregator/listener.cpp",
   "file": "/Users/romtin/Documents/Interview/realtime-sensor-aggregator/listener.cpp",
   "output": "CMakeFiles/listener.dir/listener.cpp.o"
+},
+{
+  "directory": "/Users/romtin/Documents/Interview/realtime-sensor-aggregator/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/aggregator.dir/aggregator.cpp.o -c /Users/romtin/Documents/Interview/realtime-sensor-aggregator/aggregator.cpp",
+  "file": "/Users/romtin/Documents/Interview/realtime-sensor-aggregator/aggregator.cpp",
+  "output": "CMakeFiles/aggregator.dir/aggregator.cpp.o"
 }
 ]
